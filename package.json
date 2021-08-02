@@ -1,0 +1,25 @@
+{
+  "name": "dialogflow-rhyme-welcome",
+  "version": "1.0.0",
+  "description": "An sample of responding to the Default Welcome Intent with a polish hello rhyme",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszwisniewski88/dialogflow-rhyme-welcome.git"
+  },
+  "author": "Łukasz Wiśniewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszwisniewski88/dialogflow-rhyme-welcome/issues"
+  },
+  "homepage": "https://github.com/lukaszwisniewski88/dialogflow-rhyme-welcome#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "cypress": "^8.1.0",
+    "mocha": "^9.0.3"
+  }
+}
